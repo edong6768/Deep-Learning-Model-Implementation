@@ -1,0 +1,5 @@
+data/
+Fashion/
+images_mnist/
+__pycache__/
+toy_data/__pycache__/
